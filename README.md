@@ -1,2 +1,2 @@
 # lsp
-lsp   test
+lsp   test  的方式的
